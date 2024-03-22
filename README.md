@@ -15,9 +15,16 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> </p>
  -->
-### Tech Stack: 
+### Languages and Tools: 
 <!-- <a href=""> <img src="" alt=""></a> -->
 <a href="https://docs.python.org/3.13/"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"></a> 
+<a href="https://www.w3schools.com/js/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Logo"></a>
+<a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL Logo"></a>
+<a href="https://html.com/html5/"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Logo"></a>
+<a href="https://getbootstrap.com/"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Logo"></a>
+<a href="https://www.postman.com/"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman Logo"></a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Logo"></a>
+<a href="https://miro.com/"> <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="Miro Logo"></a>
 
 ### Projects 
 
