@@ -3,7 +3,11 @@
 
 <!-- add a header tage with align attribute -->
 <!-- who are you or what have you done -->
-### Communication and Global Studies Graduate. Aspiring Software Engineer. 
+### Communication and Global Studies Graduate. Tech Enthiusiast. Aspiring a career in Technology 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rebecca-solomon-75aa56191/) 
+
 
 <!-- can write what I have done in the last few years -->
 <!-- can change to circular with this: (got code from adrienne so can use if want to )
