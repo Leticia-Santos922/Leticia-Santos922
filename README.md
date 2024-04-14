@@ -6,7 +6,8 @@
 ### Communication and Global Studies Graduate. Tech Enthiusiast. Aspiring a career in Technology 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rebecca-solomon-75aa56191/) 
+
+
 
 
 <!-- can write what I have done in the last few years -->
@@ -21,6 +22,11 @@
  -->
 ### Languages and Tools: 
 <!-- <a href=""> <img src="" alt=""></a> -->
+<!-- TODO: Find which way is better to do badges  -->
+<!--ANOTHER WAY TO DO BADGE WHICH SEEMS BETTER  ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)  -->
+<!--ANOTHER WAY TO DO BADGE WHICH SEEMS BETTER  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rebecca-solomon-75aa56191/)  -->
+
+
 <a href="https://docs.python.org/3.13/"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"></a> 
 <a href="https://www.w3schools.com/js/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Logo"></a>
 <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL Logo"></a>
