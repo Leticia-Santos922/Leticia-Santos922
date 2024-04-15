@@ -5,6 +5,8 @@
 </div> 
 
 <!-- TODO: ADD A BANNER --> 
+<img src="https://github.com/Leticia-Santos922/Leticia-Santos922/blob/main/Purple%20Gradient%20Canva%20Banner.png"  alt="banner">
+
 
 <!-- add a header tage with align attribute -->
 <!-- who are you or what have you done -->
