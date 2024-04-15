@@ -1,14 +1,17 @@
+<!-- TOO: CHANGE EMOJI WAVE --> 
 <!-- h1 aligh="centre" if want to have text within =the centre -->
 <div align=center>
  <h1>Hi, I'm Leticia!👋<br>Welcome to my GitHub.</h1>
 </div> 
 
-<!-- ADD A BANNER --> 
+<!-- TODO: ADD A BANNER --> 
 
 <!-- add a header tage with align attribute -->
 <!-- who are you or what have you done -->
 ## About Me: 
 - Communication and Global Studies Graduate. Tech Enthiusiast. Aspiring a career in Technology
+<!-- TODO: ADD Content  --> 
+<!--   
 -  🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,9 +20,36 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ --> 
 
+<!-- Add emoji's --> 
 ## Projects 
 <!-- TABLE OF PROJECTS AND WHAT PROJECTS --> 
+I have completed the Sky Get Into Tech Programme, Coding Black Females Mentorship Programme and Code First Girls Bootcamps. Here's a selection of my projects that demonstrate my technology and language skills.
+
+| Title    | Description | Technologies|
+| -------- | --------| -------- |
+|[Movie Generator][1]| Solo project. An app for a movie club which I belong to with friends, it helps us decide on a movie to watch each month | Flask, Python, MYSQL, HTML, CSS, Bootstrap 5 |
+|[Santamori][2]| Solo project. Travel app that helps users discover new adventures and experiences through affirmations and based on their interests| Flask, Python, MYSQL, HTML, CSS, Bootstrap 5 |
+|[Recipe Finder App][3]| Group project. An app which finds a recipe from the ingredients that the user inputs by using an API | HTML, CSS, JavaScript, React|
+|[Mood Monsters App (currently completing)][4]| Group project. An app that provides a safe space to guide young children (6-8y) and their nominated grown up to identify, acknowledge and log a range of moods with the help of our Mood Monsters.| Flask, Python, MYSQL, HTML, CSS, Bootstrap 5, JavaScript |
+
+[1]:https://github.com/Leticia-Santos922/w11_Flask_Movie_App
+[2]:https://github.com/Leticia-Santos922/week10_hw_santomori
+[3]:https://github.com/Leticia-Santos922/recipe-react-app
+[4]:(addlinkonhere<---)
+
+### 💻 Coding credentials
+<!--  <strong>Software Engineering Bootcamp</strong>, <em>Makers Academy, November 2021</em>
+ * Designed and built web applications primarily in Ruby and JavaScript, with emphasis placed on self-led learning to becoming tech-agnostic and able to learn new languages in short timeframes 
+ * Collaborated in Agile teams with  a focus on XP values, pair programming and Git workflow 
+ * Projects available to view on GitHub 
+
+<strong>Introduction to Software Engineering</strong>, <em>SheCodes, July 2020</em>
+ * A three week introductory course on designing with one final project to design and build a website of your choice, primarily using JavaScript, HTML and CSS  -->
+
+
+
 
 <!-- can write what I have done in the last few years -->
 <!-- can change to circular with this: (got code from adrienne so can use if want to )
@@ -36,8 +66,6 @@
 <!-- TODO: Find which way is better to do badges  -->
 <!--ANOTHER WAY TO DO BADGE WHICH SEEMS BETTER  ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)  -->
 <!--ANOTHER WAY TO DO BADGE WHICH SEEMS BETTER  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rebecca-solomon-75aa56191/)  -->
-
-
 <a href="https://docs.python.org/3.13/"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"></a> 
 <a href="https://www.w3schools.com/js/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Logo"></a>
 <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL Logo"></a>
@@ -47,7 +75,7 @@
 <a href="https://flask.palletsprojects.com/en/3.0.x/"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Logo"></a>
 <a href="https://miro.com/"> <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="Miro Logo"></a>
 
-### Projects 
+
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/leticia-santos-05733b1ba"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
