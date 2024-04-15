@@ -1,14 +1,25 @@
-## 👋 Hi, I'm Leticia! Welcome to my GitHub.
-<!-- h1 aligh="centre" if want to have text within the centre -->
+<!-- h1 aligh="centre" if want to have text within =the centre -->
+<div align=center>
+ <h1>Hi, I'm Leticia!👋<br>Welcome to my GitHub.</h1>
+</div> 
+
+<!-- ADD A BANNER --> 
 
 <!-- add a header tage with align attribute -->
 <!-- who are you or what have you done -->
-### Communication and Global Studies Graduate. Tech Enthiusiast. Aspiring a career in Technology 
+## About Me: 
+- Communication and Global Studies Graduate. Tech Enthiusiast. Aspiring a career in Technology
+-  🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-## 🌐 Socials:
-
-
-
+## Projects 
+<!-- TABLE OF PROJECTS AND WHAT PROJECTS --> 
 
 <!-- can write what I have done in the last few years -->
 <!-- can change to circular with this: (got code from adrienne so can use if want to )
