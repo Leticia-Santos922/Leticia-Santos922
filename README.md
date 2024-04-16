@@ -14,6 +14,7 @@
 
 <!-- ABOUT ME SECTION -->
 <!-- TODO: ADD Content  --> 
+<!-- can write what I have done in the last few years -->
 ## About Me: 
 - Communication and Global Studies Graduate 
 <!--   
@@ -44,26 +45,6 @@ I have completed the Sky Get Into Tech Programme, Coding Black Females Mentorshi
 [3]:https://github.com/Leticia-Santos922/recipe-react-app
 [4]:(addlinkonhere<---)
 
-## Coding credentials
-<!--  <strong>Software Engineering Bootcamp</strong>, <em>Makers Academy, November 2021</em>
- * Designed and built web applications primarily in Ruby and JavaScript, with emphasis placed on self-led learning to becoming tech-agnostic and able to learn new languages in short timeframes 
- * Collaborated in Agile teams with  a focus on XP values, pair programming and Git workflow 
- * Projects available to view on GitHub 
-
-<strong>Introduction to Software Engineering</strong>, <em>SheCodes, July 2020</em>
- * A three week introductory course on designing with one final project to design and build a website of your choice, primarily using JavaScript, HTML and CSS  -->
-
-
-<!-- can write what I have done in the last few years -->
-<!-- can change to circular with this: (got code from adrienne so can use if want to )
-<p align="center"> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> </p>
- -->
 ### Languages and Tools: 
 <!-- <a href=""> <img src="" alt=""></a> -->
 <!-- TODO: Find which way is better to do badges  -->
@@ -77,6 +58,15 @@ I have completed the Sky Get Into Tech Programme, Coding Black Females Mentorshi
 <a href="https://www.postman.com/"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman Logo"></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Logo"></a>
 <a href="https://miro.com/"> <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="Miro Logo"></a>
+
+## Coding credentials
+<!--  <strong>Software Engineering Bootcamp</strong>, <em>Makers Academy, November 2021</em>
+ * Designed and built web applications primarily in Ruby and JavaScript, with emphasis placed on self-led learning to becoming tech-agnostic and able to learn new languages in short timeframes 
+ * Collaborated in Agile teams with  a focus on XP values, pair programming and Git workflow 
+ * Projects available to view on GitHub 
+
+<strong>Introduction to Software Engineering</strong>, <em>SheCodes, July 2020</em>
+ * A three week introductory course on designing with one final project to design and build a website of your choice, primarily using JavaScript, HTML and CSS  -->
 
 
 ### Connect with me:
