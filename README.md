@@ -5,7 +5,7 @@
 </div> 
 
 
-[Projects](#Projects)  [Skills](#Skills)  [Work Experience](#Work-Experience)  [Education](#Education)  [Hobbies and Interests](#Hobbies-and-Interests)
+[Projects](#Projects)  [About](#About-Me)  [Coding Credinentials](#Work-Experience)  [Languages & Tools](#Education)  [Connect with Me](#Hobbies-and-Interests)
 
 
 <!-- TODO: ADD A BANNER --> 
