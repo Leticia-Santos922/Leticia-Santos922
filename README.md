@@ -1,22 +1,21 @@
-<!-- TOO: CHANGE EMOJI WAVE --> 
-<!-- h1 aligh="centre" if want to have text within =the centre -->
+<!-- GREETING SECTION --> 
 <div align=center>
- <h1>Hi, I'm Leticia!👋<br>Welcome to my GitHub.</h1>
+ <h1>Hi, I'm Leticia!👋🏽<br>Welcome to my GitHub.</h1>
 </div> 
 
+<!-- NAV SECTION-->
 <div align=center>
- 
- ### [About](#About-Me) &nbsp; [Projects](#Projects)  &nbsp;  [Coding Credinentials](#Coding-credentials) &nbsp; [Connect with me](#Connect-with-me)
+
+ ### [About](#About-Me) &nbsp; | [Projects](#Projects) &nbsp; |  [Coding Credinentials](#Coding-credentials) &nbsp; | [Connect with me](#Connect-with-me)  
 </div>
-<!-- TODO: ADD A BANNER --> 
+
+<!-- BANNER SECTION -->
 <img src="https://github.com/Leticia-Santos922/Leticia-Santos922/blob/main/Purple%20Gradient%20Canva%20Banner.png"  alt="banner">
 
-
-<!-- add a header tage with align attribute -->
-<!-- who are you or what have you done -->
-## About Me: 
-- Communication and Global Studies Graduate. Tech Enthiusiast. Aspiring a career in Technology
+<!-- ABOUT ME SECTION -->
 <!-- TODO: ADD Content  --> 
+## About Me: 
+- Communication and Global Studies Graduate 
 <!--   
 -  🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -55,8 +54,6 @@ I have completed the Sky Get Into Tech Programme, Coding Black Females Mentorshi
  * A three week introductory course on designing with one final project to design and build a website of your choice, primarily using JavaScript, HTML and CSS  -->
 
 
-
-
 <!-- can write what I have done in the last few years -->
 <!-- can change to circular with this: (got code from adrienne so can use if want to )
 <p align="center"> 
@@ -82,27 +79,8 @@ I have completed the Sky Get Into Tech Programme, Coding Black Females Mentorshi
 <a href="https://miro.com/"> <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" alt="Miro Logo"></a>
 
 
-
 ### Connect with me:
 <a href="https://www.linkedin.com/in/leticia-santos-05733b1ba"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
-
-
-
-
-
-
-<!--
-**Leticia-Santos922/Leticia-Santos922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How To Reach Me:
+<!-- ADD EMAIL --> 
