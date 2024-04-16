@@ -45,7 +45,7 @@ I have completed the Sky Get Into Tech Programme, Coding Black Females Mentorshi
 [3]:https://github.com/Leticia-Santos922/recipe-react-app
 [4]:(addlinkonhere<---)
 
-### 💻 Coding credentials
+## Coding credentials
 <!--  <strong>Software Engineering Bootcamp</strong>, <em>Makers Academy, November 2021</em>
  * Designed and built web applications primarily in Ruby and JavaScript, with emphasis placed on self-led learning to becoming tech-agnostic and able to learn new languages in short timeframes 
  * Collaborated in Agile teams with  a focus on XP values, pair programming and Git workflow 
