@@ -4,6 +4,10 @@
  <h1>Hi, I'm Leticia!👋<br>Welcome to my GitHub.</h1>
 </div> 
 
+
+[Projects](#Projects)  [Skills](#Skills)  [Work Experience](#Work-Experience)  [Education](#Education)  [Hobbies and Interests](#Hobbies-and-Interests)
+
+
 <!-- TODO: ADD A BANNER --> 
 <img src="https://github.com/Leticia-Santos922/Leticia-Santos922/blob/main/Purple%20Gradient%20Canva%20Banner.png"  alt="banner">
 
