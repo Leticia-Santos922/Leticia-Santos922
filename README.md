@@ -36,7 +36,7 @@ I have completed the Sky Get Into Tech Programme and Coding Black Females Mentor
 | Title    | Description | Technologies|
 | -------- | --------| -------- |
 |[Movie Generator][1]| Solo project. An app for a movie club which I belong to with friends, it helps us decide on a movie to watch each month | Flask, Python, MYSQL, HTML, CSS, Bootstrap 5 |
-|[Mood Monsters App [2]| Group project. An app that provides a safe space to guide young children (6-8y) and their nominated grown up to identify, acknowledge and log a range of moods with the help of our Mood Monsters.| Flask, Python, MYSQL, HTML, CSS, Bootstrap 5, JavaScript |
+|[Mood Monsters App][2]| Group project. An app that provides a safe space to guide young children (6-8y) and their nominated grown up to identify, acknowledge and log a range of moods with the help of our Mood Monsters.| Flask, Python, MYSQL, HTML, CSS, Bootstrap 5, JavaScript |
 |[Recipe Finder App][3]| Group project. An app which finds a recipe from the ingredients that the user inputs by using an API | HTML, CSS, JavaScript, React|
 
 
