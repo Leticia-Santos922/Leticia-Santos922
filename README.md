@@ -14,7 +14,7 @@
 
 <!-- ABOUT ME SECTION -->
 ## About Me: 
-- 👩🏽‍💻 **Who I Am:** A Curious Associate Consultant and Software Tester at Corecom 
+- 👩🏽‍💻 **Who I Am:** A Consultant and Software Tester at Corecom 
 - 🔎 **Background:** A tech enthiusiast with a background in Communication and Global Studies, and commercial finance.
 - ✔ **Accomplishments:** Recently completed Sky Get into Tech 15-week Training, building projects and further knowledge in technologies.
 - 🤔 **Interests:** I'm interested in agile methodologies and responsible technology approach, including sustainability and accessibility.
