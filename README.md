@@ -13,24 +13,17 @@
 <img src="https://github.com/Leticia-Santos922/Leticia-Santos922/blob/main/Purple%20Gradient%20Canva%20Banner.png"  alt="banner">
 
 <!-- ABOUT ME SECTION -->
-<!-- TODO: ADD Content  --> 
-<!-- can write what I have done in the last few years -->
 ## About Me: 
-- Communication and Global Studies Graduate 
-<!--   
--  🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- --> 
+- 👩🏽‍💻 Who I Am: Associate Consultant Software Tester at Corecom 
+- 🔎 Background: A tech enthiusiast with a background in Communication and Global Studies, and commercial finance.
+- ✔ Accomplishments: Recently completed Sky Get into Tech 15-week Training, building projects and further knowledge in technologies.
+- 🤔 Interests: I'm interested in agile methodologies and responsible technology approach, including sustainability and accessibility.
+- 💫 Aspiration: I would like to collaborate, network and create meaningful connections with like-mined individuals. 
+- 🚀 Communities: I'm a member of BYP, CBF and CFG
+- ⚡Fun fact: I create home videos for family and friends of intimate moments with my camcorder and I used to scuba dive.
 
-<!-- Add emoji's --> 
+<!-- PROJECTS --> 
 ## Projects 
-<!-- TABLE OF PROJECTS AND WHAT PROJECTS --> 
 I have completed the Sky Get Into Tech Programme and Coding Black Females Mentorship Programme. Here's a selection of my projects that demonstrate my technology and language skills.
 
 | Title    | Description | Technologies|
@@ -38,7 +31,6 @@ I have completed the Sky Get Into Tech Programme and Coding Black Females Mentor
 |[Movie Generator][1]| Solo project. An app for a movie club which I belong to with friends, it helps us decide on a movie to watch each month | Flask, Python, MYSQL, HTML, CSS, Bootstrap 5 |
 |[Mood Monsters App][2]| Group project. An app that provides a safe space to guide young children (6-8y) and their nominated grown up to identify, acknowledge and log a range of moods with the help of our Mood Monsters.| Flask, Python, MYSQL, HTML, CSS, Bootstrap 5, JavaScript |
 |[Recipe Finder App][3]| Group project. An app which finds a recipe from the ingredients that the user inputs by using an API | HTML, CSS, JavaScript, React|
-
 
 [1]:https://github.com/Leticia-Santos922/w11_Flask_Movie_App
 [2]:https://github.com/CallyKilduff123/mood_monsters
