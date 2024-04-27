@@ -31,19 +31,18 @@
 <!-- Add emoji's --> 
 ## Projects 
 <!-- TABLE OF PROJECTS AND WHAT PROJECTS --> 
-I have completed the Sky Get Into Tech Programme, Coding Black Females Mentorship Programme and Code First Girls Bootcamps. Here's a selection of my projects that demonstrate my technology and language skills.
+I have completed the Sky Get Into Tech Programme and Coding Black Females Mentorship Programme. Here's a selection of my projects that demonstrate my technology and language skills.
 
 | Title    | Description | Technologies|
 | -------- | --------| -------- |
 |[Movie Generator][1]| Solo project. An app for a movie club which I belong to with friends, it helps us decide on a movie to watch each month | Flask, Python, MYSQL, HTML, CSS, Bootstrap 5 |
-|[Santamori][2]| Solo project. Travel app that helps users discover new adventures and experiences through affirmations and based on their interests| Flask, Python, MYSQL, HTML, CSS, Bootstrap 5 |
+|[Mood Monsters App [2]| Group project. An app that provides a safe space to guide young children (6-8y) and their nominated grown up to identify, acknowledge and log a range of moods with the help of our Mood Monsters.| Flask, Python, MYSQL, HTML, CSS, Bootstrap 5, JavaScript |
 |[Recipe Finder App][3]| Group project. An app which finds a recipe from the ingredients that the user inputs by using an API | HTML, CSS, JavaScript, React|
-|[Mood Monsters App (currently completing)][4]| Group project. An app that provides a safe space to guide young children (6-8y) and their nominated grown up to identify, acknowledge and log a range of moods with the help of our Mood Monsters.| Flask, Python, MYSQL, HTML, CSS, Bootstrap 5, JavaScript |
+
 
 [1]:https://github.com/Leticia-Santos922/w11_Flask_Movie_App
-[2]:https://github.com/Leticia-Santos922/week10_hw_santomori
+[2]:https://github.com/CallyKilduff123/mood_monsters
 [3]:https://github.com/Leticia-Santos922/recipe-react-app
-[4]:(addlinkonhere<---)
 
 ### Languages and Tools: 
 <!-- <a href=""> <img src="" alt=""></a> -->
