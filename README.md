@@ -36,11 +36,8 @@ I have completed the Sky Get Into Tech Programme and Coding Black Females Mentor
 [2]:https://github.com/CallyKilduff123/mood_monsters
 [3]:https://github.com/Leticia-Santos922/recipe-react-app
 
+<!-- TECHNOLOGY BADGES --> 
 ### Languages and Tools: 
-<!-- <a href=""> <img src="" alt=""></a> -->
-<!-- TODO: Find which way is better to do badges  -->
-<!--ANOTHER WAY TO DO BADGE WHICH SEEMS BETTER  ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)  -->
-<!--ANOTHER WAY TO DO BADGE WHICH SEEMS BETTER  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rebecca-solomon-75aa56191/)  -->
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://docs.python.org/3.13/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/js/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](href="https://www.mysql.com/)
@@ -49,8 +46,9 @@ I have completed the Sky Get Into Tech Programme and Coding Black Females Mentor
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
 [![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)](https://miro.com/)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 
-
+<!-- CREDENTIALS --> 
 ## Coding credentials
 
 <strong>Sky Get Into Technology</strong>, <em>Sky & QA (Jan - Apr 2024)</em>
@@ -67,6 +65,7 @@ I have completed the Sky Get Into Tech Programme and Coding Black Females Mentor
 - **Introduction to Data & SQL** - Code First Girls 
 - **Mentorship Programme** - Coding Black Females 
 
+<!-- SOCIALS AND EMAIL --> 
 <hr>
 <div align="center">
 
