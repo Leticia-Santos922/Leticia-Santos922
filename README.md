@@ -14,7 +14,7 @@
 
 <!-- ABOUT ME SECTION -->
 ## About Me: 
-- 👩🏽‍💻 **Who I Am:** A Consultant and Software Tester at Corecom 
+- 👩🏽‍💻 **Who I Am:** A Consultant Software Tester at Corecom 
 - 🔎 **Background:** A tech enthiusiast with a background in Communication and Global Studies, and commercial finance.
 - ✔ **Accomplishments:** Recently completed Sky Get into Tech 15-week Training, building projects and further knowledge in technologies.
 - 🤔 **Interests:** I'm interested in agile methodologies and responsible technology approach, including sustainability and accessibility.
@@ -28,13 +28,13 @@ I have completed the Sky Get Into Tech Programme and Coding Black Females Mentor
 
 | Title    | Description | Technologies|
 | -------- | --------| -------- |
-|[Movie Generator][1]| Solo project. An app for a movie club which I belong to with friends, it helps us decide on a movie to watch each month | Flask, Python, MYSQL, HTML, CSS, Bootstrap 5 |
-|[Mood Monsters App][2]| Group project. An app that provides a safe space to guide young children (6-8y) and their nominated grown up to identify, acknowledge and log a range of moods with the help of our Mood Monsters.| Flask, Python, MYSQL, HTML, CSS, Bootstrap 5, JavaScript |
-|[Recipe Finder App][3]| Group project. An app which finds a recipe from the ingredients that the user inputs by using an API | HTML, CSS, JavaScript, React|
+|[Mood Monsters App][1]| Group project. An app that provides a safe space to guide young children (6-8y) and their nominated grown up to identify, acknowledge and log a range of moods with the help of our Mood Monsters.| Flask, Python, MYSQL, HTML, CSS, Bootstrap 5, JavaScript |
+|[Recipe Finder App][2]| Group project. An app which finds a recipe from the ingredients that the user inputs by using an API | HTML, CSS, JavaScript, React|
+|[Movie Generator (currently working on this Project)][3]| Solo project. An app for a movie club which I belong to with friends, it helps us decide on a movie to watch each month | Flask, Python, MYSQL, HTML, CSS, Bootstrap 5 |
 
-[1]:https://github.com/Leticia-Santos922/w11_Flask_Movie_App
-[2]:https://github.com/CallyKilduff123/mood_monsters
-[3]:https://github.com/Leticia-Santos922/recipe-react-app
+[1]:https://github.com/CallyKilduff123/mood_monsters
+[2]:https://github.com/Leticia-Santos922/recipe-react-app
+[3]:https://github.com/Leticia-Santos922/w11_Flask_Movie_App
 
 <!-- TECHNOLOGY BADGES --> 
 ### Languages and Tools: 
