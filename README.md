@@ -14,12 +14,12 @@
 
 <!-- ABOUT ME SECTION -->
 ## About Me: 
-- 👩🏽‍💻 **Who I Am:** A Consultant Software Tester at Corecom 
+- 👩🏽‍💻 **Who I Am:** A Consultant Software Tester at Corecom Consultancy & Technology Academy. 
 - 🔎 **Background:** A tech enthiusiast with a background in Communication and Global Studies, and commercial finance.
-- ✔ **Accomplishments:** Recently completed Sky Get into Tech 15-week Training, building projects and further knowledge in technologies.
+- ✔ **Accomplishments:** Getting my first tech role afer retraining from a non-technical background.
 - 🤔 **Interests:** I'm interested in agile methodologies and responsible technology approach, including sustainability and accessibility.
 - 💫 **Aspiration:** I would like to collaborate, network and create meaningful connections with like-mined individuals. 
-- 🚀 **Communities:** I'm a member of BYP, CBF and CFG
+- 🚀 **Communities:** I'm a member of [BYP](https://javelin.byp.network/version-live/company/byp-leeds), [CBF](https://codingblackfemales.com/) and [CFG](https://codefirstgirls.com/)
 - ⚡**Fun fact:** I create home videos for family and friends of intimate moments with my camcorder and I used to scuba dive.
 
 <!-- PROJECTS --> 
@@ -72,6 +72,4 @@ I have completed the Sky Get Into Tech Programme and Coding Black Females Mentor
 ### Connect with me:
 <a href="https://www.linkedin.com/in/leticia-santos-05733b1ba"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
-### Write me on:
-<a href="leticia.nuness.santos@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
