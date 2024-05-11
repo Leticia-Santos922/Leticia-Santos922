@@ -14,7 +14,7 @@
 
 <!-- ABOUT ME SECTION -->
 ## About Me: 
-- 👩🏽‍💻 **Who I Am:** A Consultant Software Tester at Corecom Consultancy & Technology Academy. 
+- 👩🏽‍💻 **Who I Am:** A Consultant Software Tester at Corecom. 
 - 🔎 **Background:** A tech enthiusiast with a background in Communication and Global Studies, and commercial finance.
 - ✔ **Accomplishments:** Getting my first tech role afer retraining from a non-technical background.
 - 🤔 **Interests:** I'm interested in agile methodologies and responsible technology approach, including sustainability and accessibility.
